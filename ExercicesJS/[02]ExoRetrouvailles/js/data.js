@@ -7,6 +7,6 @@ var data = {
   'perso_1' : {
     'name' : 'Archibalde',
     'picture' : 'https://s-media-cache-ak0.pinimg.com/originals/00/37/03/0037037f1590875493f413c1fdbd52b1.jpg',
-    'texte' : ['Grand père, c\'est moi!','J\'aime les pâttes moi aussi','Pff nimporte quoi!']
+    'texte' : ['Grand mère, c\'est moi!','J\'aime les pâttes moi aussi','Pff nimporte quoi!']
   }
 }

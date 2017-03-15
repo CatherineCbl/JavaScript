@@ -1,0 +1,24 @@
+.bloque{
+    text-align: center;
+    display: inline-block;
+    width: 18%;
+    padding: 1%;
+    height: 18vw;
+    margin-top: 25%;
+}
+.btn-display{
+    background-color: red;
+    height: 100%;
+}
+#bonbon{
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTomebZivvoJfO3xNidVH9oCd0lGX6fPBwkrDr8kPJKg_cY__btg);
+    border-radius: 150px 50px;
+    background-size:
+    }
+#cake{
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYOg02UZ8YTs_RLm7qzCDADoAworNLOgpvviq_KzmyGG4jplUg);
+    border-radius: 150px 50px;
+}
+#rouille{
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8qHVhgw6TCgfhJjuMSgvc4fMylD2619Uqhqzc8C_NeqEZAM5kPQ);
+}
